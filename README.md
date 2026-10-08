@@ -37,10 +37,11 @@ Cuatro tablas: `ciudadanos`, `reportes`, `fundaciones` y `asignaciones`. En este
 Es un prototipo académico local, sin inicio de sesión ni integración real con entidades de protección. No debe desplegarse públicamente con `debug=True` o la clave de desarrollo. Para un despliegue real se requieren autenticación, CSRF, protección de datos personales y configuración segura.
 
 ## Integrantes
--Sandra Johana Cartagena Agudelo
--Kelly Johana Ramírez Vanegas 
--Luis Romero Cantillo 
--Luis Miguel Floriano Ortegon
+
+- Sandra Johana Cartagena Agudelo
+- Kelly Johana Ramírez Vanegas
+- Luis Romero Cantillo
+- Luis Miguel Floriano Ortegon
 
 ## Uso de IA
 Se utilizó ChatGPT como asistente para el diseño y generación de una primera versión. El equipo debe revisar, probar, comprender y documentar sus cambios en la bitácora de IA antes de entregar.
